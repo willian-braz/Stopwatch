@@ -3,6 +3,8 @@
 
 Stopwatch created using HTML, CSS and JavaScript
 
+[Click here to run](https://willian-braz.github.io/Stopwatch/)
+
 ## Technologies used
 - HTML
 - CSS
